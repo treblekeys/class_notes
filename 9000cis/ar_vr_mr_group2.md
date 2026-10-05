@@ -1,0 +1,14 @@
+# AR/VR/MR
+- Apple, Meta, Microsoft, and Google all want to use these technologies in their systems.
+- Augmented Reality
+    - Real time integration of sigital information within one's environment
+    - Can virtually overlay items in homes, campaigns to allow people to interact in media, or in gaming
+    - It can disrupt industries like entertainment, manufacturing, and engineering
+- Virtual Reality
+    - Fully immersive computer-generated 3D environment
+    - Use of headset and can be used in entertainment, education, healthcare, and marketing. 
+    - It does have a high cost of owning hardware and can be difficult integrating with existing systems.
+- Mixed Reality
+    - It combines real and virtual worlds. 
+    - Can be used in healthcare to see holographic and 3D models of patients to perform operations.
+    - It is also expensive and there are limited softwares along with a steep learning curve.
